@@ -11,7 +11,6 @@ public class VarMovement : MonoBehaviour
 
         transform.position += direction * speed * Time.deltaTime;
 
-         speed = "fast"; 
     }
 }
 
